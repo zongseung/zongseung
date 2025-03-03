@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🚀 Tech Stack & Tools
 
 ### 🖥️ Languages

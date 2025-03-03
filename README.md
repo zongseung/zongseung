@@ -13,7 +13,9 @@
 ### 🛠️ IDE & Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+# languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongseung&layout=compact)
 
 <!--

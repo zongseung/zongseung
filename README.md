@@ -12,6 +12,11 @@
 </p>
 
 ---
+## Auto-detected Stack
+
+<!-- STACK:START -->
+(이 구간은 GitHub Actions가 자동으로 업데이트합니다.)
+<!-- STACK:END -->
 
 <h2 align="center">Tech Stack & Tools</h2>
 

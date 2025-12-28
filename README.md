@@ -1,4 +1,4 @@
-<h1 align="center">Zongseung</h1>
+<h1 align="center">zongseung</h1>
 
 <p align="center">
   <a href="https://github.com/zongseung">
@@ -15,12 +15,16 @@
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+<br/>
+
 ### Tools & Frameworks
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
 
 ### IDE & Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -33,22 +37,16 @@
 
 <h2 align="center">GitHub at a Glance</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=zongseung&show_icons=true&hide_border=true"
-        alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongseung&layout=compact&hide_border=true"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zongseung&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongseung&layout=compact&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
+</p>
 
 <p align="center">
   <img
@@ -57,9 +55,8 @@
   />
 </p>
 
-<!-- 필요하면 아래 주석 해제해서 추가 -->
-<!--
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zongseung&no-frame=true" alt="trophy" />
 </p>
--->

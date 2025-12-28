@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/zongseung?style=for-the-badge&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/stars/zongseung?style=for-the-badge&logo=github&logoColor=white" alt="stars" />
+</p>
+
 ---
 
 <h2 align="center">Tech Stack & Tools</h2>
@@ -35,28 +40,11 @@
 
 ---
 
-<h2 align="center">GitHub at a Glance</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zongseung&show_icons=true&hide_border=true&cache_seconds=86400"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongseung&layout=compact&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
+<h2 align="center">Activity</h2>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=zongseung&hide_border=true"
     alt="Activity Graph"
   />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zongseung&no-frame=true" alt="trophy" />
 </p>

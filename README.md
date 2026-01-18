@@ -9,9 +9,8 @@
 <div align="center">
 
   🌱 I’m currently focused on **Deep Learning** and **Data Analysis**.<br/>
-  🔭 I’m working on **Computer Vision Project**.<br/>
   📚 I’m currently learning **MLOps** and **Backend Engineering**.<br/>
-  📫 How to reach me: **zongseung@example.com**
+  📫 How to reach me: **new9279@gachon.ac.kr**
 
 </div>
 

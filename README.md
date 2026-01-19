@@ -9,6 +9,8 @@
 - 🚀 Currently focused on **Deep Learning** and **Business Intelligence**.
 - 📫 Contact: **new9279@gachon.ac.kr**
 
+<div align="center">
+
 <br/>
 
 ## 🛠 Tech Stack
@@ -36,6 +38,7 @@
 <img src="https://img.shields.io/badge/Prefect-ffffff?style=for-the-badge&logo=prefect&logoColor=black" />
 
 <br/>
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -43,7 +46,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongseung&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook" height="150" alt="languages graph" />
 
 <br/>
+<br/>
 
 <a href="mailto:new9279@gachon.ac.kr">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br/>
+
+</div>
